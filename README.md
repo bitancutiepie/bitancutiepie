@@ -87,6 +87,16 @@
 
 <img src="assets/divider.svg" alt="" width="560" />
 
+### ✿ Trusted Companions ✿
+
+<sub>~ my party members. click a card to visit ~</sub>
+
+<a href="https://github.com/adrianbalbuena26"><img width="32%" src="assets/companion-1.svg" alt="Adrian Balbuena (@adrianbalbuena26)" /></a>
+<a href="https://github.com/Cejp16"><img width="32%" src="assets/companion-2.svg" alt="Cris Ed John Plata (@Cejp16)" /></a>
+<a href="https://github.com/leannkirstenn"><img width="32%" src="assets/companion-3.svg" alt="Leann Kirsten Catapang (@leannkirstenn)" /></a>
+
+<img src="assets/divider.svg" alt="" width="560" />
+
 <img src="assets/sleeping-cat.svg" alt="Sleeping pixel cat at a save point" width="560" />
 
 </div>
