@@ -66,6 +66,16 @@
 
 <div align="center">
 
+### ✿ Currently Working On ✿
+
+<img src="assets/active-quests.svg" alt="Active quests: Kabuyo Project (Car Dealing Website) and VanDito (A Grab-like web app customized for van riders)" width="560" />
+
+<img src="assets/divider.svg" alt="" width="560" />
+
+</div>
+
+<div align="center">
+
 ### ✿ Quest Log ✿
 
 <sub>~ my pinned quests. click a card to play ~</sub>
