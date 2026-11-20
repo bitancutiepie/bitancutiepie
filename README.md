@@ -27,3 +27,16 @@
 <img src="assets/divider.svg" alt="" width="560" />
 
 </div>
+
+<div align="center">
+
+### ✿ GitHub Stats ✿
+
+<img src="https://streak-stats.demolab.com?user=bitancutiepie&background=FFF0F6&border=FFB3D1&stroke=FFB3D1&ring=FF6FA5&fire=FF8FB8&currStreakNum=7A5C7E&sideNums=7A5C7E&currStreakLabel=FF6FA5&sideLabels=7A5C7E&dates=B08BBB&border_radius=0" alt="GitHub streak" />
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=bitancutiepie&show_icons=true&hide_border=false&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bitancutiepie&layout=compact&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="Top languages" />
+
+<img src="assets/divider.svg" alt="" width="560" />
+
+</div>
