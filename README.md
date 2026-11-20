@@ -68,14 +68,12 @@
 
 ### ✿ Quest Log ✿
 
-<sub>~ main quests completed. click a card to play ~</sub>
+<sub>~ my pinned quests. click a card to play ~</sub>
 
-<a href="https://github.com/bitancutiepie/JavaMon"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=JavaMon&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="JavaMon" /></a>
-<a href="https://github.com/bitancutiepie/DigimonTrialsDex"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=DigimonTrialsDex&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="DigimonTrialsDex" /></a>
-<a href="https://github.com/bitancutiepie/JVJResumeSystem"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=JVJResumeSystem&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="JVJResumeSystem" /></a>
-<a href="https://github.com/bitancutiepie/Portfolio"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=Portfolio&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="Portfolio" /></a>
 <a href="https://github.com/bitancutiepie/StudentCredentialsManager"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=StudentCredentialsManager&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="StudentCredentialsManager" /></a>
-<a href="https://github.com/bitancutiepie/ISKORE"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=ISKORE&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="ISKORE" /></a>
+<a href="https://github.com/bitancutiepie/JavaMon"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=JavaMon&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="JavaMon" /></a>
+<a href="https://github.com/bitancutiepie/BasuraHero"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=BasuraHero&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="BasuraHero" /></a>
+<a href="https://github.com/bitancutiepie/HasaKabataan"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=HasaKabataan&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="HasaKabataan" /></a>
 
 <img src="assets/divider.svg" alt="" width="560" />
 
