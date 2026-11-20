@@ -30,9 +30,11 @@
 <img src="https://img.shields.io/badge/HTML5-FF8FB8?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-C9A0DC?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-8FB5FF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-FFA39A?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-FF8FB8?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Git-C9A0DC?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/TypeScript-FFA39A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-FF8FB8?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-C9A0DC?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C%2B%2B-8FB5FF?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Git-FFA39A?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 <img src="assets/divider.svg" alt="" width="560" />
 
@@ -59,6 +61,25 @@
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bitancutiepie&layout=compact&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="Top languages" />
 
 <img src="assets/divider.svg" alt="" width="560" />
+
+</div>
+
+<div align="center">
+
+### ✿ Quest Log ✿
+
+<sub>~ main quests completed. click a card to play ~</sub>
+
+<a href="https://github.com/bitancutiepie/JavaMon"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=JavaMon&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="JavaMon" /></a>
+<a href="https://github.com/bitancutiepie/DigimonTrialsDex"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=DigimonTrialsDex&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="DigimonTrialsDex" /></a>
+<a href="https://github.com/bitancutiepie/JVJResumeSystem"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=JVJResumeSystem&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="JVJResumeSystem" /></a>
+<a href="https://github.com/bitancutiepie/Portfolio"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=Portfolio&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="Portfolio" /></a>
+<a href="https://github.com/bitancutiepie/StudentCredentialsManager"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=StudentCredentialsManager&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="StudentCredentialsManager" /></a>
+<a href="https://github.com/bitancutiepie/ISKORE"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=ISKORE&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="ISKORE" /></a>
+
+<img src="assets/divider.svg" alt="" width="560" />
+
+<img src="assets/sleeping-cat.svg" alt="Sleeping pixel cat at a save point" width="560" />
 
 </div>
 
