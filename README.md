@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=FF6FA5&center=true&vCenter=true&width=620&height=50&lines=Hello+World!+%3C3;I'm+JV;IT+Student+%26+Aspiring+Software+Developer" alt="Hello World! I'm JV" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1200&color=FF6FA5&center=true&vCenter=true&width=720&height=50&lines=Hello+World!+%3C3;I'm+JV;IT+Student+%26+Aspiring+Software+Developer" alt="Hello World! I'm JV" />
 
 <img src="assets/pixel-pets.svg" alt="Pixel cat and pancake stack animation" width="560" />
 
@@ -16,6 +16,27 @@
 ✦ Currently studying: **Business Analytics**, **Data**, **Web Development**, **Automation**<br/>
 ✦ I like **Gaming, Coding & Yearning**.<br/>
 ✦ I love **cutiepie**, hence my username.
+
+<div align="center">
+
+<img src="assets/player-card.svg" alt="Player 1 stats card" width="560" />
+
+</div>
+
+<div align="center">
+
+### ✿ Tech Stack ✿
+
+<img src="https://img.shields.io/badge/HTML5-FF8FB8?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-C9A0DC?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-8FB5FF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-FFA39A?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-FF8FB8?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Git-C9A0DC?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+<img src="assets/divider.svg" alt="" width="560" />
+
+</div>
 
 <div align="center">
 
@@ -38,5 +59,11 @@
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bitancutiepie&layout=compact&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="Top languages" />
 
 <img src="assets/divider.svg" alt="" width="560" />
+
+</div>
+
+<div align="center">
+
+<img src="assets/footer.svg" alt="Thanks for visiting" width="560" />
 
 </div>
