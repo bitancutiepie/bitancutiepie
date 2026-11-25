@@ -68,7 +68,7 @@
 
 ### ✿ Currently Working On ✿
 
-<img src="assets/active-quests.svg" alt="Active quests: Kabuyo Project (Car Dealing Website) and VanDito (A Grab-like web app customized for van riders)" width="560" />
+<img src="assets/active-quests.svg" alt="Active quests: Kabuyo Project (90%), VanDito, and Sta. Clara Dialysis App" width="560" />
 
 <img src="assets/divider.svg" alt="" width="560" />
 
