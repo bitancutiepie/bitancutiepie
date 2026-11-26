@@ -47,6 +47,10 @@
 <a href="https://github.com/bitancutiepie"><img src="https://img.shields.io/badge/GitHub-bitancutiepie-FF8FB8?style=flat-square&logo=github&logoColor=white&labelColor=C9A0DC" alt="GitHub" /></a>
 <a href="mailto:jayveebitancor@gmail.com"><img src="https://img.shields.io/badge/Gmail-jayveebitancor@gmail.com-FFA39A?style=flat-square&logo=gmail&logoColor=white&labelColor=C9A0DC" alt="Gmail" /></a>
 
+<br/><br/>
+
+<a href="https://bitancutiepie.vercel.app"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio at bitancutiepie.vercel.app" width="560" /></a>
+
 <img src="assets/divider.svg" alt="" width="560" />
 
 </div>

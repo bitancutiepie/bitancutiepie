@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="136" viewBox="0 0 560 136">
+  <style>
+    .f { font-family: 'Courier New', monospace; font-weight: bold; }
+    .blink { animation: bl 1.2s steps(1) infinite; }
+    @keyframes bl { 0% { opacity: 1; } 50% { opacity: 0.25; } }
+    .bob { animation: bb 2s steps(2) infinite; }
+    @keyframes bb { 0% { transform: translateY(0px); } 50% { transform: translateY(-2px); } }
+  </style>
+
+  <!-- Outer Pixel Window -->
+  <rect x="2" y="2" width="556" height="132" fill="#fff0f6" stroke="#7a5c7e" stroke-width="4" />
+  <!-- Top Title Bar -->
+  <rect x="2" y="2" width="556" height="28" fill="#ffb3d1" />
+  <rect x="2" y="30" width="556" height="3" fill="#7a5c7e" />
+  <text x="18" y="21" class="f" font-size="13" fill="#7a5c7e">PORTFOLIO.EXE</text>
+  <circle cx="480" cy="16" r="4" fill="#ff6fa5" class="blink" />
+  <text x="542" y="21" class="f" font-size="12" fill="#7a5c7e" text-anchor="end">ONLINE</text>
+
+  <!-- Pixel Cat Icon on Left -->
+  <g class="bob" shape-rendering="crispEdges">
+    <rect x="26" y="48" width="60" height="60" fill="#fffafc" stroke="#7a5c7e" stroke-width="3" />
+    <!-- Ears -->
+    <rect x="38" y="58" width="6" height="6" fill="#7a5c7e" />
+    <rect x="68" y="58" width="6" height="6" fill="#7a5c7e" />
+    <rect x="40" y="62" width="4" height="4" fill="#ffb3d1" />
+    <rect x="68" y="62" width="4" height="4" fill="#ffb3d1" />
+    <!-- Head -->
+    <rect x="36" y="64" width="40" height="24" fill="#7a5c7e" />
+    <rect x="40" y="68" width="32" height="16" fill="#fff0f6" />
+    <!-- Eyes -->
+    <rect x="44" y="72" width="6" height="6" fill="#7a5c7e" />
+    <rect x="62" y="72" width="6" height="6" fill="#7a5c7e" />
+    <!-- Blush & Nose -->
+    <rect x="42" y="80" width="4" height="2" fill="#ff6fa5" />
+    <rect x="66" y="80" width="4" height="2" fill="#ff6fa5" />
+    <rect x="54" y="78" width="4" height="2" fill="#ff6fa5" />
+    <!-- Paws -->
+    <rect x="42" y="92" width="10" height="6" fill="#ffb3d1" />
+    <rect x="60" y="92" width="10" height="6" fill="#ffb3d1" />
+  </g>
+
+  <!-- Main Text -->
+  <text x="104" y="66" class="f" font-size="20" fill="#ff6fa5">VISIT MY PORTFOLIO</text>
+  <text x="104" y="90" class="f" font-size="15" fill="#7a5c7e">https://bitancutiepie.vercel.app</text>
+  <text x="104" y="112" class="f" font-size="11" fill="#b08bbb">NEXT.JS · CONVEX · GLASS FOLDERS · CASE STUDIES</text>
+
+  <!-- Pixel Action Button -->
+  <g shape-rendering="crispEdges">
+    <rect x="446" y="60" width="96" height="36" fill="#ff8fb8" stroke="#7a5c7e" stroke-width="3" />
+    <text x="494" y="83" class="f blink" font-size="14" fill="#ffffff" text-anchor="middle">OPEN &gt;</text>
+  </g>
+</svg>
