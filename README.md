@@ -1,112 +1,74 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1200&color=FF6FA5&center=true&vCenter=true&width=720&height=50&lines=Hello+World!+%3C3;I'm+JV;IT+Student+%26+Aspiring+Software+Developer" alt="Hello World! I'm JV" />
+<img src="assets/banner.svg" alt="Joshua Vincent M. Bitancor, 4th-Year BSIT, Full-Stack and Business Analytics Developer" width="800" />
 
-<img src="assets/pixel-pets.svg" alt="Pixel cat and pancake stack animation" width="560" />
+<br/>
 
-<sub>I love cute ♡</sub>
+<a href="https://bitancutiepie.vercel.app"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio at bitancutiepie.vercel.app" width="640" /></a>
 
-<img src="assets/divider.svg" alt="" width="560" />
+<br/>
 
-### ✿ Joshua Vincent M. Bitancor ✿
+<a href="https://github.com/bitancutiepie"><img src="assets/link-github.svg" alt="GitHub" height="44" /></a>
+<a href="mailto:jayveebitancor@gmail.com"><img src="assets/link-email.svg" alt="Email me" height="44" /></a>
 
-</div>
+<img src="assets/divider.svg" alt="" width="800" />
 
-✦ Hello! My name is **JV** (*he*), a **BSIT – Business Analytics** student from the **Philippines**.<br/>
-✦ Currently studying: **Business Analytics**, **Data**, **Web Development**, **Automation**<br/>
-✦ I like **Gaming, Coding & Yearning**.<br/>
-✦ I love **cutiepie**, hence my username.
-
-<div align="center">
-
-<img src="assets/player-card.svg" alt="Player 1 stats card" width="560" />
+<img src="assets/header-about.svg" alt="About" width="800" />
 
 </div>
 
-<div align="center">
+Hi, I'm **JV** (he/him), a 4th-year BSIT student specializing in Business Analytics. I build practical full-stack web apps and enjoy turning data into useful tools.
 
-### ✿ Tech Stack ✿
-
-<img src="https://img.shields.io/badge/HTML5-FF8FB8?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-C9A0DC?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-8FB5FF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-FFA39A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-FF8FB8?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-C9A0DC?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%2B%2B-8FB5FF?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Git-FFA39A?style=flat-square&logo=git&logoColor=white" alt="Git" />
-
-<img src="assets/divider.svg" alt="" width="560" />
-
-</div>
+- **Focus:** Full-Stack Web Development, Business Analytics, Data & Automation
+- **Interests:** Gaming, coding
+- **Portfolio:** [bitancutiepie.vercel.app](https://bitancutiepie.vercel.app)
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="560" />
+<img src="assets/header-tech.svg" alt="Tech Stack" width="800" />
 
-<a href="https://github.com/bitancutiepie"><img src="https://img.shields.io/badge/GitHub-bitancutiepie-FF8FB8?style=flat-square&logo=github&logoColor=white&labelColor=C9A0DC" alt="GitHub" /></a>
-<a href="mailto:jayveebitancor@gmail.com"><img src="https://img.shields.io/badge/Gmail-jayveebitancor@gmail.com-FFA39A?style=flat-square&logo=gmail&logoColor=white&labelColor=C9A0DC" alt="Gmail" /></a>
+<img src="assets/tech-stack.svg" alt="Tech stack: HTML5, CSS3, JavaScript, TypeScript, Python, React, Next.js, Tailwind CSS, Node.js, Java, C++, SQL, Git" width="800" />
 
-<br/><br/>
+<img src="assets/divider.svg" alt="" width="800" />
 
-<a href="https://bitancutiepie.vercel.app"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio at bitancutiepie.vercel.app" width="560" /></a>
+<img src="assets/header-active.svg" alt="Active Quests" width="800" />
 
-<img src="assets/divider.svg" alt="" width="560" />
+<img src="assets/active-projects.svg" alt="Currently working on: Kabuyo Project (90%), VanDito (WIP), and Sta. Clara Dialysis App (WIP)" width="800" />
 
-</div>
+<img src="assets/divider.svg" alt="" width="800" />
 
-<div align="center">
+<img src="assets/header-projects.svg" alt="Featured Projects" width="800" />
 
-### ✿ GitHub Stats ✿
+<br/>
+
+<a href="https://github.com/bitancutiepie/StudentCredentialsManager"><img width="48%" src="assets/project-scm.svg" alt="StudentCredentialsManager — Java desktop app for managing student records and credentials" /></a>
+<a href="https://github.com/bitancutiepie/JavaMon"><img width="48%" src="assets/project-javamon.svg" alt="JavaMon — Turn-based monster battle RPG in Java" /></a>
+<a href="https://github.com/bitancutiepie/BasuraHero"><img width="48%" src="assets/project-basurahero.svg" alt="BasuraHero — Gamified waste management web app" /></a>
+<a href="https://github.com/bitancutiepie/HasaKabataan"><img width="48%" src="assets/project-hasakabataan.svg" alt="HasaKabataan — Youth learning and skill platform" /></a>
+
+<img src="assets/divider.svg" alt="" width="800" />
+
+<img src="assets/header-stats.svg" alt="GitHub Stats" width="800" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=bitancutiepie&background=FFF0F6&border=FFB3D1&stroke=FFB3D1&ring=FF6FA5&fire=FF8FB8&currStreakNum=7A5C7E&sideNums=7A5C7E&currStreakLabel=FF6FA5&sideLabels=7A5C7E&dates=B08BBB&border_radius=0" alt="GitHub streak" />
+
+<br/>
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=bitancutiepie&show_icons=true&hide_border=false&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="GitHub stats" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bitancutiepie&layout=compact&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="Top languages" />
 
-<img src="assets/divider.svg" alt="" width="560" />
+<img src="assets/divider.svg" alt="" width="800" />
 
-</div>
+<img src="assets/header-collab.svg" alt="Collaborators" width="800" />
 
-<div align="center">
+<br/>
 
-### ✿ Currently Working On ✿
+<a href="https://github.com/adrianbalbuena26"><img src="assets/collab-1.svg" alt="Adrian Balbuena" /></a>
+<a href="https://github.com/Cejp16"><img src="assets/collab-2.svg" alt="Cris Ed John Plata" /></a>
+<a href="https://github.com/leannkirstenn"><img src="assets/collab-3.svg" alt="Leann Kirsten Catapang" /></a>
 
-<img src="assets/active-quests.svg" alt="Active quests: Kabuyo Project (90%), VanDito, and Sta. Clara Dialysis App" width="560" />
-
-<img src="assets/divider.svg" alt="" width="560" />
-
-</div>
-
-<div align="center">
-
-### ✿ Quest Log ✿
-
-<sub>~ my pinned quests. click a card to play ~</sub>
-
-<a href="https://github.com/bitancutiepie/StudentCredentialsManager"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=StudentCredentialsManager&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="StudentCredentialsManager" /></a>
-<a href="https://github.com/bitancutiepie/JavaMon"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=JavaMon&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="JavaMon" /></a>
-<a href="https://github.com/bitancutiepie/BasuraHero"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=BasuraHero&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="BasuraHero" /></a>
-<a href="https://github.com/bitancutiepie/HasaKabataan"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=bitancutiepie&repo=HasaKabataan&title_color=FF6FA5&text_color=7A5C7E&icon_color=C9A0DC&bg_color=FFF0F6&border_color=FFB3D1&border_radius=0" alt="HasaKabataan" /></a>
-
-<img src="assets/divider.svg" alt="" width="560" />
-
-### ✿ Trusted Companions ✿
-
-<sub>~ my party members. click a card to visit ~</sub>
-
-<a href="https://github.com/adrianbalbuena26"><img width="32%" src="assets/companion-1.svg" alt="Adrian Balbuena (@adrianbalbuena26)" /></a>
-<a href="https://github.com/Cejp16"><img width="32%" src="assets/companion-2.svg" alt="Cris Ed John Plata (@Cejp16)" /></a>
-<a href="https://github.com/leannkirstenn"><img width="32%" src="assets/companion-3.svg" alt="Leann Kirsten Catapang (@leannkirstenn)" /></a>
-
-<img src="assets/divider.svg" alt="" width="560" />
-
-<img src="assets/sleeping-cat.svg" alt="Sleeping pixel cat at a save point" width="560" />
-
-</div>
-
-<div align="center">
-
-<img src="assets/footer.svg" alt="Thanks for visiting" width="560" />
+<img src="assets/footer.svg" alt="Thanks for visiting" width="800" />
 
 </div>
