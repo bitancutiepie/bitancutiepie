@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Joshua Vincent M. Bitancor, 4th-Year BSIT, Full-Stack and Business Analytics Developer" width="800" />
+<img src="assets/banner.svg" alt="Joshua Vincent M. Bitancor, 3rd-Year BSIT Student at BatStateU, Full-Stack and Business Analytics Developer" width="800" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-Hi, I'm **JV** (he/him), a 4th-year BSIT student specializing in Business Analytics. I build practical full-stack web apps and enjoy turning data into useful tools.
+Hi, I'm **JV** (he/him), a 3rd-year BSIT student at **BatStateU** specializing in Business Analytics. I build practical full-stack web apps and enjoy turning data into useful tools.
 
 - **Focus:** Full-Stack Web Development, Business Analytics, Data & Automation
 - **Interests:** Gaming, coding
