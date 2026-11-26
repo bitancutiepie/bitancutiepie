@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Joshua Vincent M. Bitancor, 3rd-Year BSIT Student at BatStateU, Full-Stack and Business Analytics Developer" width="800" />
+<img src="assets/banner.svg?v=2" alt="Joshua Vincent M. Bitancor, 3rd-Year BSIT Student at BatStateU, Full-Stack and Business Analytics Developer" width="800" />
 
 <br/>
 
@@ -27,7 +27,7 @@ Hi, I'm **JV** (he/him), a 3rd-year BSIT student at **BatStateU** specializing i
 
 <img src="assets/header-tech.svg" alt="Tech Stack" width="800" />
 
-<img src="assets/tech-stack.svg" alt="Tech stack: HTML5, CSS3, JavaScript, TypeScript, Python, React, Next.js, Tailwind CSS, Node.js, Java, C++, SQL, Git" width="800" />
+<img src="assets/tech-stack.svg?v=2" alt="Tech stack: HTML5, CSS3, JavaScript, TypeScript, Python, React, Next.js, Tailwind CSS, Node.js, Java, C++, SQL, Git" width="800" />
 
 <img src="assets/divider.svg" alt="" width="800" />
 
